@@ -1,0 +1,1 @@
+cmd_/home/jianan/asu/cs/cse330/project/CSE330Project/p3/project37.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jianan/asu/cs/cse330/project/CSE330Project/p3/project37.ko /home/jianan/asu/cs/cse330/project/CSE330Project/p3/project37.o /home/jianan/asu/cs/cse330/project/CSE330Project/p3/project37.mod.o
